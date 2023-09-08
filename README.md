@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <font style="color:blue">**XuJ1E**</font>
+- 👋 Hi, I’m **XuJ1E**
 ---
 - `Here are some ideas to get you started:`
 ---
