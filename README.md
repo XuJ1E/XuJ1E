@@ -8,3 +8,4 @@
 
 **XuJ1E/XuJ1E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![XuJ1E's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuJ1E&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuJ1Es)](https://github.com/XuJ1E/github-readme-stats)
