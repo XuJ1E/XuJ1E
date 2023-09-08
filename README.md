@@ -1,4 +1,4 @@
-### Hi there 👋
+[![XuJ1E's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuj1e)](https://github.com/XuJ1E/github-readme-stats)
 ![XuJ1E's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuJ1E&show_icons=true&theme=radical)
 <!--
 **XuJ1E/XuJ1E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
