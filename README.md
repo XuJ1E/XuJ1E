@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @XuJ1E
 - `Here are some ideas to get you started:`
+- 🔭 I’m currently working on [Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education](http://amt.gzu.edu.cn/)
 - 🔭 I’m currently working on `Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education`(http://amt.gzu.edu.cn/)
 - 👀 I’m interested in CV (Facial Expression Recognition, Human Action Recognition and GAN).
 - 🌱 I’m currently learning Human Action Recognition.
