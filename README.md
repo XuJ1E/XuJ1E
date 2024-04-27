@@ -8,8 +8,8 @@
 - 💞️ I’m looking to collaborate on Human Action Recognition of Alzheimer's disease
 - 📫 How to reach me at *[Email](xuu_jie@126.com)*
 ***
-**XuJ1E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**XuJ1E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+**Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuj1e&show_icons=true)](https://github.com/xuj1e/github-readme-stats)
