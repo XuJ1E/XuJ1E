@@ -10,9 +10,7 @@
 ***
 **XuJ1E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-
-**Visitor Count**
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+![decription](https://img.shields.io/badge/tools-pycharm-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuj1e&show_icons=true)](https://github.com/xuj1e/github-readme-stats)
 ***
