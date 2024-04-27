@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/XuJ1E/Image-Process/blob/main/set1.jpg" align="center" style="width: 45%" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" style="width: 45%" />
 </div>  
   
 
