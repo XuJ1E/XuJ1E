@@ -58,13 +58,13 @@
 
 ## Blog Urls:  
 <div align="center">
-<a href="https://github.com/https://github.com/XuJ1E/" target="_blank">
+<a href="https://github.com/XuJ1E/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/XuJieYa" target="_blank">
+<a href="https://gitlab.com/XuJieYa" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/" target="_blank">
+<a href="https://www.kaggle.com/" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 </div>  
