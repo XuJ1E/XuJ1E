@@ -58,20 +58,21 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td></tr></table>  
 
 ## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuj1e&show_icons=true)](https://github.com/xuj1e/github-readme-stats)
 
 
-## Github Stats  
+## Github Stats
+</td></tr></table>  
+
 <img src="https://github-readme-stats.vercel.app/api?username=XuJ1E&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
 
 ## Blog Posts  
-<div align="left">
+<div align="center">
 <a href="https://github.com/https://github.com/XuJ1E/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
