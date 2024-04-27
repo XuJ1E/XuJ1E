@@ -5,7 +5,7 @@
 
 
 
-## Current Situation  
+## Current Situation:
 ### <div align="center">👋 Hi, I’m **XuJ1E** , graduate student, studying at Guizhou University👨‍💻, working remotely since 2018 🚀</div>  
   
 
@@ -24,7 +24,7 @@
 <br/>  
 
 
-## Skill Set 
+## Skill Area at follow:
 <table><tr><td valign="top" width="33%">
 
 
@@ -36,7 +36,7 @@
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33.3%">
+</td><td valign="top" width="33%">
 
 
 
@@ -47,7 +47,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33.3%">
+</td><td valign="top" width="33%">
 
 
 
@@ -72,7 +72,7 @@
 
 </td></tr></table>  
 
-<br/>  
+
 
 
 ## Blog Posts  
