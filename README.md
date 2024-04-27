@@ -1,4 +1,6 @@
 - 👋 Hi, I’m **XuJ1E** , graduate student, study at Guizhou University!
+
+- ![decription](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter) -![decription](https://img.shields.io/badge/tools-pycharm-green)
 ---
 - `Here are some ideas to get you started:`
 ---
@@ -9,8 +11,6 @@
 - 📫 How to reach me at *[Email](xuu_jie@126.com)*
 ***
 **XuJ1E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-
-![decription](https://img.shields.io/badge/tools-pycharm-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuj1e&show_icons=true)](https://github.com/xuj1e/github-readme-stats)
 ***
