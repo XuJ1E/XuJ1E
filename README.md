@@ -47,7 +47,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="31%">
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-## Blog Posts  
+## Blog Urls:  
 <div align="center">
 <a href="https://github.com/https://github.com/XuJ1E/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
