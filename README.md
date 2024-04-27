@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://github.com/XuJ1E/Image-Process/blob/main/set1.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/XuJ1E/Image-Process/blob/main/set1.jpg" align="center" style="width: 50%" />
 </div>  
   
 
 
 
-### Current Situation  
+## Current Situation  
 ### <div align="center">👋 Hi, I’m **XuJ1E** , graduate student, studying at Guizhou University👨‍💻, working remotely since 2018 🚀</div>  
   
 
@@ -60,7 +60,7 @@
 
 </td></tr></table>  
 
-
+### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuj1e&show_icons=true)](https://github.com/xuj1e/github-readme-stats)
 
 
