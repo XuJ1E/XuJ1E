@@ -1,8 +1,6 @@
 - 👋 Hi, I’m **XuJ1E** , graduate student, study at Guizhou University!
 
-- ![decription](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-- ![decription](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![decription](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+- ![decription](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter) ![decription](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![decription](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ---
 - `Here are some ideas to get you started:`
 ---
