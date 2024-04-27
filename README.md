@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" style="width: 45%" />
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" align="center" style="width: 45%" />
 </div>  
   
 
