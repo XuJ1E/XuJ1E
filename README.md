@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/XuJ1E/Image-Process/blob/main/set1.jpg" align="center" style="width: 50%" />
+<img src="https://github.com/XuJ1E/Image-Process/blob/main/set1.jpg" align="center" style="width: 45%" />
 </div>  
   
 
@@ -47,7 +47,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 
 
@@ -60,7 +60,7 @@
 
 </td></tr></table>  
 
-### Language
+## Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuj1e&show_icons=true)](https://github.com/xuj1e/github-readme-stats)
 
 
@@ -70,7 +70,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Blog Posts  
 <div align="center">
 <a href="https://github.com/https://github.com/XuJ1E/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
