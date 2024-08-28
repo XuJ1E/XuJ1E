@@ -6,10 +6,11 @@
 
 
 ## Current Situation:
-### <div align="center">👋 Hi, I’m **XuJ1E** , graduate student, studying at Guizhou University👨‍💻, working remotely since 2018 🚀</div>  
+### <div align="center">👋 Hi, I’m **XuJ1E** , a master of Mechanical Engineering, graduated from Guizhou University👨‍💻, working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [*Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT)*](http://amt.gzu.edu.cn/)  
+- 🔭 I left the [*Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT)*](http://amt.gzu.edu.cn/) ,
+now work in Xuzhou XCMG General Research Institute of Jiangsu Province, engaged in the research and development of machine vision.
   
 
 - 🌱 I’m currently learning Facial Expression Recognition, GAN and Human Action Recognition.  
