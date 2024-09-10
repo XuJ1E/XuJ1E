@@ -9,17 +9,20 @@
 ### <div align="center">👋 Hi, I’m **XuJ1E** , a master of Mechanical Engineering, graduated from Guizhou University👨‍💻, working remotely since 2018 🚀</div>  
   
 
-- 🔭 I left the [*Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT)*](http://amt.gzu.edu.cn/) ,
-now work in Xuzhou XCMG General Research Institute of Jiangsu Province, engaged in the research and development of machine vision.
-  
+- 🔭 I have graduated from the [*Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT)*](http://amt.gzu.edu.cn/),
+and now I am working in Xuzhou XCMG General Research Institute of Jiangsu Province, China, engaged in the research and development of Machine Vision.
 
-- 🌱 I’m currently learning Facial Expression Recognition, GAN and Human Action Recognition.  
   
+- 🤖 I'm currently learning machine vision knowledge such as Liadr, SLAM, camera calibration, path planning, etc.
+
+
+- 🌱 I used to work with Facial Expression Recognition (FER), GAN and Human Video Action RecognitHAR (HAR).
+
 
 - ⚡ I’m looking to collaborate on Human Action Recognition of Alzheimer's disease.  
   
 
-- ❓ Reach me at *[Email](xuu_jie@126.com)*  
+- 🎹 Reach me at *[Email](xuu_jie@126.com)*  
   
 
 <br/>  
