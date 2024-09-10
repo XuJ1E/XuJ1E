@@ -24,7 +24,7 @@ and now I am working in Xuzhou XCMG General Research Institute of Jiangsu Provin
 - 🌈 I'm currently learning machine vision knowledge such as Liadr, SLAM, camera calibration, path planning, etc.
 
 
-- ☘️ I used to work with Facial Expression Recognition (FER), GAN and Human Video Action RecognitHAR (HAR).
+- ☘️ I used to work with Facial Expression Recognition (FER), GAN and Human Video Action Recognition (HAR).
 
 
 - 🚀 I’m looking to collaborate on Human Action Recognition of Alzheimer's disease.  
