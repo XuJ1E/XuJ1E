@@ -6,7 +6,9 @@
 
 
 ## Current Situation:
-### <div align="center">👋 Hi, I’m **XuJ1E** , a master of Mechanical Engineering, graduated from Guizhou University👨‍💻, working remotely since 2018 🚀</div>  
+### <div align="center">👋 Hi, I’m **XuJ1E**,
+Bachelor of Engineering degree in Process Equipment and Control Engineering from Anhui Polytechnic University; Master's degree in Engineering from Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT) of Guizhou University; Now working in Xuzhou City, Jiangsu Province, China XCMG Construction Machinery Research Institute, as a machine vision beginner👨‍💻.
+Began to engage in embedded hardware and software development and computer vision learning since 2018 🚀</div>  
   
 
 - 🔭 I have graduated from the [*Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT)*](http://amt.gzu.edu.cn/),
