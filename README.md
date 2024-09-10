@@ -7,11 +7,11 @@
 
 ## Current Situation:
 ### <div align="center">👋 Hi, I’m **XuJ1E**,
-🚗 Bachelor of Engineering degree in Process Equipment and Control Engineering from Anhui Polytechnic University;
+🚗 Bachelor of Engineering degree in Process Equipment and Control Engineering from Anhui Polytechnic University (AHPU);
 
-🚙 Master's degree in Engineering from Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT) of Guizhou University;
+🚙 Master's degree in Engineering from Key Laboratory of Advanced Manufacturing Technology of the Ministry of Education(AMT) of Guizhou UniverAHPU (GZU);
 
-🚕 Now working in Xuzhou City, Jiangsu Province, China XCMG Construction Machinery Research Institute, as a machine vision beginner👨‍💻.
+🚕 Now working in Xuzhou City, Jiangsu Province, China XCMG Construction Machinery Research Institute (XCMG), as a machine vision beginner👨‍💻.
 
 
 - 🤖 Began to engage in embedded hardware and software development and computer vision learning since 2018 🚀</div>  
